@@ -1,0 +1,3 @@
+class Wizard extends Pet {
+    
+}

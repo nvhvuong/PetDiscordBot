@@ -1,0 +1,3 @@
+class Assassin extends Pet {
+   
+}

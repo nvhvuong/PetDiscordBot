@@ -1,0 +1,3 @@
+class Paladin extends Pet {
+    
+}
